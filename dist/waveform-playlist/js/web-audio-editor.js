@@ -19,7 +19,7 @@ var playlist = WaveformPlaylist.init({
 
 playlist.load([
   {
-    "src": "media/audio/Vocals30.mp3",
+    "src": "media/audio/Stay.flac",
     "name": "Vocals",
     "fadeIn": {
       "duration": 0.5
